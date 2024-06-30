@@ -1,6 +1,6 @@
 <img src="Capyble.png" width="200">
 
-FUN FACT: We had another repository <a href="https://github.com/VishnuK1947/LAHacks24">LAHacks'24</a> but we had issues with that repository and created a new one. That is where I had written all my code first and committed!
+FUN FACT: We had another repository <a href="https://github.com/VishnuK1947/LAHacks24" target="_blank" rel="noopener noreferrer">LAHacks'24</a> but we had issues with that repository and created a new one. That is where I had written all my code first and committed!
 
 # With Capyble, you are CAPABLE💪
 
