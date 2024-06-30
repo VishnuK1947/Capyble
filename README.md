@@ -1,14 +1,12 @@
 <img src="Capyble.png" width="200">
 
-FUN FACT: We had another repository (https://github.com/VishnuK1947/LAHacks24) but we had issues with that repository and created a new one. That is where I had written all my code first and committed!
+FUN FACT: We had another repository <a href="https://github.com/VishnuK1947/LAHacks24">LAHacks'24</a> but we had issues with that repository and created a new one. That is where I had written all my code first and committed!
 
 # With Capyble, you are CAPABLE💪
 
-
 ## Capyble - Your On-Screen Focus Companion
+
 Files you need to prepare for running Capyble: 1. Get your own Credentials.json from Google Calendar API. When you run quickstart.py, it should generate a tokens.json file. If monitor.py dones't work, you can try run quickstart.py first and monitor.py should be able to run afterwards.
-
-
 
 ## Inspiration
 
