@@ -1,5 +1,7 @@
 <img src="Capyble.png" width="200">
 
+FUN FACT: We had another repository (https://github.com/VishnuK1947/LAHacks24) but we had issues with that repository and created a new one. That is where I had written all my code first and committed!
+
 # With Capyble, you are CAPABLE💪
 
 
